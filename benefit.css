@@ -1,0 +1,39 @@
+.benefit {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.benefit-content {
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 1px 2px 15px 0px rgba(0, 0, 0, 0.15);
+    padding: 15px;
+    width: 20%;
+}
+
+.benefit-content h2 {
+    color: #223140;
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+.benefit-content p {
+    color: #101010;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 200;
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+
+.benefit-content img {
+    width: 31.669px;
+    height: 42.24px;
+    border-radius: 42.24px;
+    background: rgba(236, 178, 45, 0.10);
+    padding: 5px;
+}
