@@ -4,3 +4,82 @@
     font-family: 'Inter', sans-serif;
 }
 
+section {
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 55px;
+}
+
+.navigation {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+.logo h2 {
+    color: #1D1D1D;
+    text-align: center;
+    font-size: 24px;
+    font-family: Secular One;
+    letter-spacing: -0.293px;
+}
+
+
+.main-menu nav ul{
+    display: flex;
+    gap: 40px;
+}
+
+.main-menu ul li{
+    list-style-type: none;
+}
+
+.main-menu a {
+    text-decoration: none;
+    color: #1D1D1D;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.main-menu fa-solid {
+    align-items: center;
+    width: 24px;
+    height: 24px;
+    margin-left: 5px;
+}
+
+.signup nav ul{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.signup li {
+    list-style: none;
+}
+
+.signup a {
+    text-decoration: none;
+    color: #094BCA;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    padding: 10px 27px;
+}
+
+.signup input {
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    padding: 10px 27px;
+    background-color: #094BCA;
+    border: none;
+    border-radius: 5px;
+}
