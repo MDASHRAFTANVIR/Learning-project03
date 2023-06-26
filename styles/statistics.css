@@ -1,0 +1,39 @@
+
+
+.statistics {
+    
+}
+
+.total-amount {
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    gap: 90px;
+    justify-content: space-around;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    text-align: center;
+}
+
+.stat {
+    width: 20%;
+}
+
+.stat h2 {
+    color: #094BCA;
+    text-align: center;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: -1px;
+}
+
+.stat p {
+    color: #223140;
+    text-align: center;
+    font-size: 14px;
+    font-family: Inter;
+    line-height: 32px;
+    letter-spacing: -1px;
+}
