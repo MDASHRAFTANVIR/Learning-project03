@@ -1,0 +1,26 @@
+
+
+.experience-content {
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+}
+
+.experience-content h2 {
+    color: #000;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: -1px;
+    margin-bottom: 35px;
+}
+
+.experience-content p {
+    color: #223140;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: -1px;
+    margin-bottom: 55px;
+    width: 80%;
+    margin-left: 10%;
+}
