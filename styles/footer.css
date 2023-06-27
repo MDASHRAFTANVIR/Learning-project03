@@ -1,0 +1,139 @@
+footer {
+    background: rgba(217, 217, 217, 0.10);
+    padding: 60px 0px;
+}
+
+.final {
+    background-color: white;
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    gap: 20px;
+
+}
+
+.footer-part1 {
+    width: 35%;
+}
+
+.footer-part2 {
+    width: 15%;
+}
+
+.footer-part3 {
+    width: 15%;
+}
+
+.footer-part4 {
+    width: 35%;
+}
+
+.footer-part1 h4 {
+    color: #1D1D1D;
+    font-size: 24px;
+    letter-spacing: -0.293px;
+    margin-bottom: 30px;
+}
+
+.footer-part1 p {
+    color: #535558;
+    font-size: 16px;
+    font-family: Inter;
+    line-height: 26px;
+    width: 50%;
+}
+
+.footer-part2 h4 {
+    color: #1D1D1D;
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom: 30px;
+}
+
+.footer-part2 ul {
+    list-style-type: none;
+}
+
+.footer-part2 a {
+    text-decoration: none;
+    color: #535558;
+    font-size: 16px;
+    font-family: Inter;
+    line-height: 26px;
+}
+
+.footer-part2 li {
+    margin-bottom: 15px;
+}
+
+
+
+.footer-part3 h4 {
+    color: #1D1D1D;
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom: 30px;
+}
+
+
+.footer-part3 ul {
+    list-style-type: none;
+}
+
+.footer-part3 a {
+    text-decoration: none;
+    color: #535558;
+    font-size: 16px;
+    font-family: Inter;
+    line-height: 26px;
+}
+
+.footer-part3 li {
+    margin-bottom: 15px;
+}
+
+
+.footer-part4 h4 {
+    color: #1D1D1D;
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom: 30px;
+}
+
+.blogs {
+    display: flex;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 1px 2px 15px 0px rgba(0, 0, 0, 0.15);
+
+}
+
+.blogs-part {
+    padding: 10px 17px;
+}
+
+.blogs-part p {
+    color: #535558;
+    font-size: 14px;
+    font-family: Inter;
+    line-height: 22px;
+    margin-bottom: 10px;
+    
+}
+
+.blogs-part a {
+    text-decoration: none;
+    color: #094BCA;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 24px;
+    
+}
